@@ -28,3 +28,17 @@ Addition:
 >>> r=a-b-c-d-e-f-g-h-i-j
 >>> print(r)
 -53
+Division:
+
+>>> a=20
+>>> b=2
+>>> print(a/b)
+10
+>>> 
+
+Multiplication:
+
+>>> a=20
+>>> b=2
+>>> print(a*b)
+40
