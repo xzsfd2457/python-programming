@@ -1,0 +1,9 @@
+a=raw_input()
+print(a)
+if(a<19):
+  print('a is not eligible')
+else:
+	print('a is eligible')
+  a=10
+  a is not eligible
+  
