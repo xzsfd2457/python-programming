@@ -1,3 +1,0 @@
-a='programmer'
-print(len(a))
-10
