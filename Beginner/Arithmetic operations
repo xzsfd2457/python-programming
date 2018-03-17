@@ -1,4 +1,3 @@
-Addition:
 
 >>> a=1
 >>> b=2
@@ -10,6 +9,7 @@ Addition:
 >>> h=8
 >>> i=9
 >>> j=10
+Addition:
 >>> q=a+b+c+d+e+f+g+h+i+j
 >>> print(q)
 55
@@ -42,3 +42,17 @@ Multiplication:
 >>> b=2
 >>> print(a*b)
 40
+
+Logical operations
+print(a!=b)
+True
+
+print(a<>b)
+True
+
+print(a==b)
+False
+
+Exponential
+print(c**b)
+9
