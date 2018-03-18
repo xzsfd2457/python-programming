@@ -6,4 +6,4 @@ def main (yy):
 	else:
 		print("a is not even")
 main (22)
-a is even
+
