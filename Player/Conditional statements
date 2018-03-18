@@ -1,9 +1,8 @@
-a=raw_input()
-print(a)
-if(a<19):
-  print('a is not eligible')
+a=int(raw_input())
+if(a>=20):
+	print("a is eligible")
 else:
-	print('a is eligible')
+	print("a is not eligible")
   a=10
   a is not eligible
   
