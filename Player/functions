@@ -1,0 +1,9 @@
+def main (yy):
+	a=yy
+	i=a%2
+	if(i==0):
+		print("a is even")
+	else:
+		print("a is not even")
+main (22)
+a is even
