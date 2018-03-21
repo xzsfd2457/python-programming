@@ -1,7 +1,7 @@
 a=raw_input()
 b=raw_input()
-temp=0
-temp=a
+Hi=0
+Hi=a
 a=b
-b=temp
+b=Hi
 print(a,b)
