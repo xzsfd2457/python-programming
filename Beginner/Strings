@@ -1,18 +1,17 @@
 i='hi'
 j='dude'
 print(i+j)
-hidude
+
 
 Count
 i='programmer'
 print(i.count('r'))
-3
+
 
 Find
 i='programmer'
 print(i.find('g'))
-3
+
 
 Replace
 print(i.replace('m','y'))
-prograyyer
