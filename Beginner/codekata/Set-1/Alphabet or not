@@ -1,6 +1,0 @@
-c=raw_input()
-if( (c>='a' and c<='z')or(c>='A' and c<='Z')):
-
-	print('Given is alphabet')
-else:
-	print('Given input is not alphabet')
