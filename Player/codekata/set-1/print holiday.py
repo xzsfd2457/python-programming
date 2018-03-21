@@ -3,10 +3,10 @@ b=raw_input()
 c='sunday'
 d='saturday'
 if (a==c or a==d):
-        print('Holiday')
+        print('yes')
 else:
-        print('Not a Holiday')
+        print('No')
 if (b==c or b==d):
-        print('Holiday')
+        print('yes')
 else:
-        print('Not a Holiday')
+        print('No')
