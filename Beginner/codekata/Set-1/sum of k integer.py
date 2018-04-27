@@ -1,5 +1,5 @@
-n=int(raw_input())
 k=int(raw_input())
+n=int(raw_input())
 c=[]
 sum=0
 for i in range(1,k+1):
